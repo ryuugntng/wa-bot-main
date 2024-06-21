@@ -1,0 +1,19 @@
+const adventures = [
+  { fgadventure: "Anda menemukan sebuah gua misterius. Di dalamnya, Anda melawan sekelompok goblin dan menemukan harta karun. Anda mendapatkan" },
+  { fgadventure: "Anda membantu seorang penyihir tua yang kemudian memberikan Anda sebuah ramuan ajaib sebagai hadiah. Anda mendapatkan" },
+  { fgadventure: "Anda menyelamatkan sebuah desa dari serangan naga. Penduduk desa sangat berterima kasih dan memberi Anda" },
+  { fgadventure: "Anda menjelajahi hutan terlarang dan menemukan sebuah artefak kuno yang memberi Anda kekuatan luar biasa. Anda mendapatkan" },
+  { fgadventure: "Anda menyeberangi lautan dan menemukan sebuah pulau tersembunyi dengan banyak kekayaan. Anda kembali dengan" },
+  { fgadventure: "Anda bertarung dengan bandit di jalan raya dan mengalahkan mereka. Dalam perjalanan, Anda menemukan" },
+  { fgadventure: "Anda membantu seorang raja yang sedang dalam kesulitan. Sebagai imbalan, dia memberi Anda" },
+  { fgadventure: "Anda menjelajahi reruntuhan kuno dan menemukan rahasia yang telah lama terlupakan. Anda mendapatkan" },
+  { fgadventure: "Anda mengikuti peta harta karun dan menemukan peti yang penuh dengan emas dan permata. Anda mendapatkan" },
+  { fgadventure: "Anda berlayar ke lautan dan menemukan kota yang hilang di bawah air. Anda kembali dengan" },
+  { fgadventure: "Anda menyusuri sungai dan menemukan desa tersembunyi yang memberi Anda harta sebagai tanda terima kasih. Anda mendapatkan" },
+  { fgadventure: "Anda menyelamatkan seekor naga muda dari pemburu dan sebagai imbalan, induknya memberi Anda" },
+  { fgadventure: "Anda menemukan sebuah candi kuno di hutan. Di dalamnya terdapat banyak jebakan dan teka-teki, tetapi Anda berhasil mengambil" },
+  { fgadventure: "Anda membantu seorang pahlawan yang terluka di tengah jalan. Sebagai ucapan terima kasih, dia memberi Anda" },
+  { fgadventure: "Anda menemukan kapal bajak laut yang terdampar dan berhasil mengambil sebagian harta karun mereka. Anda mendapatkan" }
+];
+
+export default adventures;
